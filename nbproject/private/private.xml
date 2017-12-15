@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/com/biosec/ams/db/DbManager.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/ui/ResetUserEPKIPinWithMOCPanel.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/ui/DashboardFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/com/biosec/ams/core/CardOperations.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/ui/ActivateCardPanel.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/ui/CardOperationsPanel.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/ui/DashboardLeftPanel.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/com/biosec/ams/callbacks/VerifyFingerCallback.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/amsclient/AMSClient.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/AMSClient/src/com/biosec/ams/core/WebServiceCommunicator.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.8.114:8180/iCams-ejb/IcamsWS/IcamsWS?wsdl" uri="xml-resources/web-service-references/IcamsWS/wsdl/192.168.8.114_8180/iCams-ejb/IcamsWS/IcamsWS.wsdl"/>
+    <system systemId="http://192.168.43.83:8180/iCams-ejb/IcamsWS/IcamsWS?wsdl" uri="xml-resources/web-service-references/IcamsWS/wsdl/192.168.43.83_8180/iCams-ejb/IcamsWS/IcamsWS.wsdl"/>
+</catalog>
